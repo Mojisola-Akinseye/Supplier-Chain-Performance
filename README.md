@@ -48,5 +48,6 @@ The date table was created using a DAX measure for time intelligence calculation
 The data modeling process involved connecting primary keys in the dimension tables to foreign keys in the fact table using the one-to-many cardinality to achieve a star schema model. 
 
 # Descriptive Analysis
+![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/f24c6bd3-6377-4b15-8f2b-4e4cfeedfade)
 
 # Recommendation
