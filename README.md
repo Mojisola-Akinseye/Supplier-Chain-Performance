@@ -1,5 +1,4 @@
-# Project Topic: 
-Optimizing Supplier Quality and Downtime Reduction through Data Analytics
+# Project Topic: Optimizing Supplier Quality and Downtime Reduction through Data Analytics
 
 # Project Overview:
 ## Background:
