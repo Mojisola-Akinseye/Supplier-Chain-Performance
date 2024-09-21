@@ -1,14 +1,13 @@
-# Suppliers Quality and Performance
-## Project Overview:
+# Project Topic: 
+Optimizing Supplier Quality and Downtime Reduction through Data Analytics
+
+# Project Overview:
+## Background:
 A comprehensive overview of supplier performance, highlighting key metrics such as defect quantity, downtime, and their impact on overall operations
 
+## Objectives:
 
-## Project Structure:
-
-- **Project Objective:** This is a customer data of a  fictional telco company. Each row represents a customer; and each column contains 
-
-- **Data:** The dashboard is made up of visualization pages, and each page provides an analysis of the telco customer churn data based on these categories: demographics, customer account information, subscribed services, and key influencers. 
-
+## Key Questions:
 
 # Data Cleaning:
 
