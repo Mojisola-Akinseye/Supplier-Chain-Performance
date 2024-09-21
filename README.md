@@ -48,6 +48,29 @@ The date table was created using a DAX measure for time intelligence calculation
 The data modeling process involved connecting primary keys in the dimension tables to foreign keys in the fact table using the one-to-many cardinality to achieve a star schema model. 
 
 # Descriptive Analysis
-![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/f24c6bd3-6377-4b15-8f2b-4e4cfeedfade)
+
+KPIs
+![KPI](https://github.com/user-attachments/assets/5f01897d-c92f-4fb5-ad6f-0fc055b81bda)
+
+Poor Performing Vendors and Plants 
+![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/6972f6e6-4466-4515-8cc7-b912f864fef1)
+
+![Downtime Hours by Vendor](https://github.com/user-attachments/assets/e01414e0-1043-404a-8003-347374a41212) ![Downtime Hours by Plant Location](https://github.com/user-attachments/assets/eef0167d-ac14-4500-bc2b-dff505e434a7)
+
+Vendor Material
+![Vendor-Material](https://github.com/user-attachments/assets/3a4927c2-a311-48ee-9934-14c08030d780)
+
+Plant Vendor
+![Vendor-Plant Analysis](https://github.com/user-attachments/assets/6cfa6fbd-9517-4f9c-92fb-be4dab0ea6ff)
+
+Highest Defect Quantity by Material Type, Category, and Defect
+![Category](https://github.com/user-attachments/assets/3cd3a92f-6016-4b06-af5e-12b89970f900)
+
+![Material Type](https://github.com/user-attachments/assets/0334a538-d1db-4aec-81bc-a95735826da3)
+
+![Defect](https://github.com/user-attachments/assets/72657f2f-9bf8-45a2-816d-b486ac0daf54)
+
+Downtime Impact Assessment
+![Worst Performance](https://github.com/user-attachments/assets/b71c8855-a84f-4959-b0e0-bee7fc2d11b2)
 
 # Recommendation
