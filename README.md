@@ -47,7 +47,7 @@ The date table was created using a DAX measure for time intelligence calculation
 # Data Modelling:
 The data modeling process involved connecting primary keys in the dimension tables to foreign keys in the fact table using the one-to-many cardinality to achieve a star schema model. 
 
-# Descriptive Analysis
+# Descriptive Analysis:
 ## Let’s first draw some visuals to help us deep dive into the data
 
 ### When it comes to analyzing supplier data, Key Performance Indicators (KPIs) are crucial for assessing supplier performance. So, what specific KPIs should we focus on in this analysis?
@@ -85,7 +85,7 @@ These findings indicate that certain vendor-material and vendor-plant combinatio
 **Recommendation:** Prioritize enhancing the quality control process at Edgelab’s raw material stage and streamline the operations between Yombu and Prescott. By addressing these specific high-impact areas, the company can minimize defects and reduce downtime, leading to a significant reduction in associated costs.
 
 
-#### Let's not forget the material analysis section. What's the most common defect flaw? Which type of material have the highest defect quantity? And which classification does the material fall under?
+### Let's not forget the material analysis section. What's the most common defect flaw? Which type of material have the highest defect quantity? And which classification does the material fall under?
 
 ![Category](https://github.com/user-attachments/assets/3cd3a92f-6016-4b06-af5e-12b89970f900)![Material Type](https://github.com/user-attachments/assets/0334a538-d1db-4aec-81bc-a95735826da3)![Defect](https://github.com/user-attachments/assets/72657f2f-9bf8-45a2-816d-b486ac0daf54)
 
@@ -96,7 +96,7 @@ These figures highlight critical problem areas in both materials and mechanical 
 **Recommendation:** Prioritize addressing the Bad Seams defect by refining production techniques and tightening quality control. Additionally, focus on improving the quality of Raw Materials and Mechanical components through better vendor management and enhanced process oversight to boost overall performance.
 
 
-#### Finally, various factors can result into downtime, as stated earlier, however, what's the highest value of downtime caused by defective materials? 
+### Finally, various factors can result into downtime, as stated earlier, however, what's the highest value of downtime caused by defective materials? 
 
 ![Worst Performance](https://github.com/user-attachments/assets/b71c8855-a84f-4959-b0e0-bee7fc2d11b2)
 
