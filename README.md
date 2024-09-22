@@ -87,7 +87,7 @@ These findings indicate that certain vendor-material and vendor-plant combinatio
 
 ### Let's not forget the material analysis section. What's the most common defect flaw? Which type of material have the highest defect quantity? And which classification does the material fall under?
 
-<img src="https://github.com/user-attachments/assets/3cd3a92f-6016-4b06-af5e-12b89970f900" width="200" height="200"> <img src="https://github.com/user-attachments/assets/0334a538-d1db-4aec-81bc-a95735826da3" width="200" height=200"> <img src="https://github.com/user-attachments/assets/72657f2f-9bf8-45a2-816d-b486ac0daf54" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/3cd3a92f-6016-4b06-af5e-12b89970f900" width="300" height="200"> <img src="https://github.com/user-attachments/assets/72657f2f-9bf8-45a2-816d-b486ac0daf54" width="300" height="200"> <img src="https://github.com/user-attachments/assets/0334a538-d1db-4aec-81bc-a95735826da3" width="300" height=200">
 
 The **Bad Seams defect** has emerged as the leading cause of production inefficiencies, resulting in 146 million defective units. Among material type, **Raw Materials** contribute to the highest defect quantity with 0.77 billion units. While the **Mechanicals category** lead other categories with a 0.82 billion defective units.
 
