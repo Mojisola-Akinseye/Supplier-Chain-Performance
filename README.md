@@ -49,7 +49,7 @@ The data modeling process involved connecting primary keys in the dimension tabl
 
 # Descriptive Analysis
 
-KPIs
+Enterprise Manufacturers Limited recorded an approximate value of 2.60 billion and 215,800 hours in defects and downtime hours respectively. Due to the impact of downtime hours, approximately $2.16 million is incurred in cost, assuming for every one hour of downtime, $10 is lost. 
 ![KPI](https://github.com/user-attachments/assets/5f01897d-c92f-4fb5-ad6f-0fc055b81bda)
 
 
