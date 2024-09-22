@@ -91,7 +91,7 @@ These findings indicate that certain vendor-material and vendor-plant combinatio
 
 The **Bad Seams defect** has emerged as the leading cause of production inefficiencies, resulting in 146 million defective units. Among material type, **Raw Materials** contribute to the highest defect quantity with 0.77 billion units. While the **Mechanicals category** lead other categories with a 0.82 billion defective units.
 
-These figures highlight critical problem areas in both materials and mechanical processes, significantly impacting product quality. The high defect rates across these categories are driving up costs and reducing overall operational efficiency.
+These figures highlight critical problem areas in both raw materials and mechanical processes, significantly impacting product quality. The high defect rates across these categories are driving up costs and reducing overall operational efficiency.
 
 **Recommendation:** Prioritize addressing the Bad Seams defect by refining production techniques and tightening quality control. Additionally, focus on improving the quality of Raw Materials and Mechanical components through better vendor management and enhanced process oversight to boost overall performance.
 
