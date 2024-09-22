@@ -50,7 +50,7 @@ The data modeling process involved connecting primary keys in the dimension tabl
 # Descriptive Analysis
 ## Let’s first draw some visuals to help us deep dive into the data
 
-When it comes to analyzing supplier data, Key Performance Indicators (KPIs) are crucial for assessing supplier performance. So, what specific KPIs should we focus on in this analysis?
+### When it comes to analyzing supplier data, Key Performance Indicators (KPIs) are crucial for assessing supplier performance. So, what specific KPIs should we focus on in this analysis?
 
 ![KPI](https://github.com/user-attachments/assets/5f01897d-c92f-4fb5-ad6f-0fc055b81bda)
 
@@ -60,36 +60,46 @@ The data strongly suggests that tackling both defects and downtime could lead to
 
 Recommendation: It's essential to prioritize strategies aimed at reducing downtime through enhanced equipment maintenance and process optimization, while also concentrating on quality control to lower defect rates. 
 
-- Now let’s see the poor_performing vendors and plants with the highest quantity of defective materials and the most downtime. Which vendors and plants are causing the greatest defect quantity and the greatest downtime?
+### Let's identify the vendors and plants that are causing the greatest defect quantity and the greatest downtime.
   
 ![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/6972f6e6-4466-4515-8cc7-b912f864fef1)
 
+The analysis reveals that the top three underperforming vendors in terms of defect quantities are Yombu, Avamm, and Meejo, contributing 15.1M, 14.7M, and 14.2M defective units, respectively. On the plant side, Hingham, Charles City, and Twin Rocks lead in poor performance with 100M, 99M, and 97M defect units.
 
 ![Downtime Hours by Vendor](https://github.com/user-attachments/assets/e01414e0-1043-404a-8003-347374a41212) ![Downtime Hours by Plant Location](https://github.com/user-attachments/assets/eef0167d-ac14-4500-bc2b-dff505e434a7)
 
+In terms of downtime, Avamm, Izio, and Meetz top the list of vendors with 1,165, 1,144, and 1,134 downtime hours, while Riverside, Charles City, and Twin Rocks are the worst-performing plant locations, with 8.6K, 8.3K, and 8.0K downtime hours. These downtime hours result from various operational inefficiencies, not limited to defect quantity.
 
+Recommendation: Focus on improving vendor management and plant-level operations, especially in defect control and downtime reduction. To reduce both defect quantities and downtime, a targeted approach should be taken to address inefficiencies at the highest-impact vendors and plant locations. Implementing stricter quality controls and enhanced maintenance protocols at these sites can mitigate losses and improve overall operational performance
 
-Vendor Material
+### Furthermore, are there specific material and vendor combinations that perform poorly? Also, do certain vendor and plant combinations result in poor performance?
+
 ![Vendor-Material](https://github.com/user-attachments/assets/3a4927c2-a311-48ee-9934-14c08030d780)
 
-
-
-Plant Vendor
 ![Vendor-Plant Analysis](https://github.com/user-attachments/assets/6cfa6fbd-9517-4f9c-92fb-be4dab0ea6ff)
 
+The combination of Edgelab and Raw Materials emerged as the leading source of inefficiencies, with 6,350,491 defective units, 292.85 hours of downtime, and a downtime cost of $2,928.50. Similarly, the pairing of Yombu and Prescott plant recorded 3,215,078 defective units, 195.63 hours of downtime, and a downtime cost of $1,956.33.
 
+These findings indicate that certain vendor-material and vendor-plant combinations are significantly contributing to defects and downtime, leading to increased costs and reduced productivity. Tackling these inefficiencies could result in substantial operational improvements.
 
-Highest Defect Quantity by Material Type, Category, and Defect
+Recommendation: Prioritize enhancing the quality control process at Edgelab’s raw material stage and streamline the operations between Yombu and Prescott. By addressing these specific high-impact areas, the company can minimize defects and reduce downtime, leading to a significant reduction in associated costs.
+
+#### Let's not forget the material analysis section.
+
 ![Category](https://github.com/user-attachments/assets/3cd3a92f-6016-4b06-af5e-12b89970f900)
-
 
 ![Material Type](https://github.com/user-attachments/assets/0334a538-d1db-4aec-81bc-a95735826da3)
 
-
 ![Defect](https://github.com/user-attachments/assets/72657f2f-9bf8-45a2-816d-b486ac0daf54)
 
+The Bad Seams defect has emerged as the leading cause of production inefficiencies, resulting in 146 million defective units. Among material type, Raw Materials contribute to the highest defect quantity with 0.77 billion units. While the Mechanicals category lead other categories with a 0.82 billion defective units.
 
-Downtime Impact Assessment
+These figures highlight critical problem areas in both materials and mechanical processes, significantly impacting product quality. The high defect rates across these categories are driving up costs and reducing overall operational efficiency.
+
+Recommendation: Prioritize addressing the Bad Seams defect by refining production techniques and tightening quality control. Additionally, focus on improving the quality of Raw Materials and Mechanical components through better vendor management and enhanced process oversight to boost overall performance.
+
+#### Finally, what's the analysis of the highest  value of downtime hours caused by defective materials? 
+
 ![Worst Performance](https://github.com/user-attachments/assets/b71c8855-a84f-4959-b0e0-bee7fc2d11b2)
 
 # Recommendation
