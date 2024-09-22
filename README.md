@@ -62,7 +62,7 @@ Recommendation: It's essential to prioritize strategies aimed at reducing downti
 
 ### Let's identify the vendors and plants that are causing the greatest defect quantity and the greatest downtime.
   
-![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d)![Defect Quantity 2](https://github.com/user-attachments/assets/6972f6e6-4466-4515-8cc7-b912f864fef1)
+![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/6972f6e6-4466-4515-8cc7-b912f864fef1)
 
 The analysis reveals that the top three underperforming vendors in terms of defect quantities are Yombu, Avamm, and Meejo, contributing 15.1M, 14.7M, and 14.2M defective units, respectively. On the plant side, Hingham, Charles City, and Twin Rocks lead in poor performance with 100M, 99M, and 97M defect units.
 
