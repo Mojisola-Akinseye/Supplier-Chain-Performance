@@ -50,11 +50,15 @@ The data modeling process involved connecting primary keys in the dimension tabl
 # Descriptive Analysis
 ## Let’s first draw some visuals to help us deep dive into the data
 
-- Now, what are the key performance indicators?
+When it comes to analyzing supplier data, Key Performance Indicators (KPIs) are crucial for assessing supplier performance. So, what specific KPIs should we focus on in this analysis?
 
 ![KPI](https://github.com/user-attachments/assets/5f01897d-c92f-4fb5-ad6f-0fc055b81bda)
 
-In 2018 and 2019, Enterprise Manufacturers Limited recorded a total approximate value of 2.60 billion units and 215,800 hours in defects and downtime hours respectively. Due to the impact of downtime hours, approximately $2.16 million is incurred in cost, assuming for every one hour of downtime, $10 is lost. 
+Enterprise Manufacturers Limited faced significant operational challenges in 2018 and 2019, recording approximately 2.60 billion defective units and 215,800 hours of downtime. The impact of these issues resulted in substantial losses, with an estimated cost of $2.16 million for downtime alone, equating to a loss of $10 for every hour of operational downtime.
+
+The data strongly suggests that tackling both defects and downtime could lead to significant cost savings and an overall improvement in efficiency. By reducing downtime and defect rates, Enterprise Manufacturers Limited has the potential to optimize production and recoup lost revenue.
+
+Recommendation: It's essential to prioritize strategies aimed at reducing downtime through enhanced equipment maintenance and process optimization, while also concentrating on quality control to lower defect rates. 
 
 - Now let’s see the poor_performing vendors and plants with the highest quantity of defective materials and the most downtime. Which vendors and plants are causing the greatest defect quantity and the greatest downtime?
   
