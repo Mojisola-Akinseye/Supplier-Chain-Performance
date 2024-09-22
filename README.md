@@ -107,28 +107,23 @@ These findings indicate that both vendors and plants are experiencing substantia
 **Recommendation**: Focus on improving the quality of materials supplied by **Avamm, Meejo, and Yombu** to reduce downtime. Additionally, streamline operations at **Charles City, Twin Rocks, and Hingham** by enhancing defect detection and resolution processes, which will help lower the downtime caused by material defects and improve overall efficiency.
 
 # Recommendation:
-
-
-Implement a Procurement Management System (PMS)
+## Implement a Procurement Management System (PMS)
 Use a digital procurement system like Enterprise Resource Planning (ERP) software to manage and track material sourcing, vendor performance, and purchase orders. This helps centralize procurement activities and provides real-time insights into material quality and vendor performance.
 
-Institute Material Inspection and Testing Protocols:
- Implement inspection and testing procedures for all incoming materials to ensure they meet quality specifications. Use a standardized process for checking material properties, which can be integrated into the procurement system for consistent tracking. Consider using Quality Control (QC) sampling or 100% inspection based on the criticality of materials.
+## Institute Material Inspection and Testing Protocols
+Implement inspection and testing procedures for all incoming materials to ensure they meet quality specifications. Use a standardized process for checking material properties, which can be integrated into the procurement system for consistent tracking. Consider using Quality Control (QC) sampling or 100% inspection based on the criticality of materials.
 
-
-Use Vendor Development and Improvement Programs:
+## Use Vendor Development and Improvement Programs
 Establish a vendor development program to help underperforming suppliers improve material quality or delivery performance. Work closely with these vendors to identify areas for improvement and provide them with clear expectations and timelines for change.
 
+## Leverage Data for Predictive Maintenance
+Use historical data on vendor material downtime patterns to implement predictive maintenance. Schedule preventive maintenance or adjustments for equipment known to have issues with specific materials.
 
-
-Leverage Data for Predictive Maintenance: Use historical data on vendor material downtime patterns to implement predictive maintenance. Schedule preventive maintenance or adjustments for equipment known to have issues with specific materials.
-
-Conduct Root Cause Analysis
+## Conduct Root Cause Analysis
 Perform a detailed root cause analysis to identify why certain material types from specific vendors are causing downtime. This could reveal issues such as incompatible specifications, inadequate packaging, or improper handling during transit.
 
-
-Diversify Vendor Relationships:
+## Diversify Vendor Relationships
 Consider diversifying the vendor base or shifting critical operations to different vendors with proven track records of high performance and reliability if specific vendor-plant combinations are consistently underperforming.
 
-8 Multi-faceted approach 
+## Multi-faceted Approach 
 To reduce downtime caused by factors such as defect quantity, equipment maintenance, and plant-related issues, adopt a multifaceted approach. Strengthen quality control processes, conduct root cause analysis, and implement Lean manufacturing practices. Additionally, establish a preventive and predictive maintenance program, conduct regular equipment audits and training for maintenance staff. Finally, optimize plant layout, improve operator training, and leverage automation where possible to streamline production and mitigate downtime due to plant inefficiencies.
