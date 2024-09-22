@@ -102,4 +102,9 @@ Recommendation: Prioritize addressing the Bad Seams defect by refining productio
 
 ![Worst Performance](https://github.com/user-attachments/assets/b71c8855-a84f-4959-b0e0-bee7fc2d11b2)
 
+By vendor, **Avamm, Meejo, and Yombu** lead in downtime caused by defective materials, recording 1,164.82, 778.32, and 763.62 hours, respectively. On the plant side, **Charles City, Twin Rocks, and Hingham** stand out with the highest downtimes due to defective materials, with 8,283.10, 8,000.70, and 7,317.08 hours, respectively.
+
+These findings indicate that both vendors and plants are experiencing substantial downtime linked to defective materials, resulting in significant operational delays and cost inefficiencies. Addressing these issues at the vendor and plant levels will be key to improving production flow and minimizing losses.
+
+**Recommendation**: Focus on improving the quality of materials supplied by **Avamm, Meejo, and Yombu** to reduce downtime. Additionally, streamline operations at **Charles City, Twin Rocks, and Hingham** by enhancing defect detection and resolution processes, which will help lower the downtime caused by material defects and improve overall efficiency.
 # Recommendation
