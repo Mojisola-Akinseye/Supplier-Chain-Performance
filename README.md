@@ -57,6 +57,7 @@ The data modeling process involved connecting primary keys in the dimension tabl
 In 2018 and 2019, Enterprise Manufacturers Limited recorded a total approximate value of 2.60 billion units and 215,800 hours in defects and downtime hours respectively. Due to the impact of downtime hours, approximately $2.16 million is incurred in cost, assuming for every one hour of downtime, $10 is lost. 
 
 - Now let’s see the poor_performing vendors and plants with the highest quantity of defective materials and the most downtime. Which vendors and plants are causing the greatest defect quantity and the greatest downtime?
+  
 ![Defect Quantity 1](https://github.com/user-attachments/assets/cf05c29e-c8ea-45a6-8e42-d3525bf8a04d) ![Defect Quantity 2](https://github.com/user-attachments/assets/6972f6e6-4466-4515-8cc7-b912f864fef1)
 
 
