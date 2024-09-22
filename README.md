@@ -54,7 +54,7 @@ The data modeling process involved connecting primary keys in the dimension tabl
 
 ![KPI](https://github.com/user-attachments/assets/5f01897d-c92f-4fb5-ad6f-0fc055b81bda)
 
-**Enterprise Manufacturers Limited** faced significant operational challenges in **2018 and 2019**, recording approximately 2.60 billion defective units and 215,800 hours of downtime. The impact of these issues resulted in substantial losses, with an estimated cost of $2.16 million for downtime alone, equating to a loss of $10 for every hour of operational downtime.
+**Enterprise Manufacturers Limited** faced significant operational challenges in **2018 and 2019**, recording approximately 2.60 billion defective units and 215,810 hours of downtime. The impact of these issues resulted in substantial losses, with an estimated cost of $2.16 million for downtime alone, equating to a loss of $10 for every hour of operational downtime.
 
 The data strongly suggests that tackling both defects and downtime could lead to significant cost savings and an overall improvement in efficiency. By reducing downtime and defect rates, Enterprise Manufacturers Limited has the potential to optimize production and recoup lost revenue.
 
