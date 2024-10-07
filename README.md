@@ -1,6 +1,6 @@
 # Optimizing Supplier Quality and Downtime Reduction through Data Analytics for Enterprise Manufacturers Limited
 
-# Project Overview:
+# Project Overview
 ## Background:
 Enterprise Manufacturers Limited is on a mission to revamp their procurement processes and ensure top-notch quality of raw materials from their various vendors across different plants. With no standardized procurement system in place, the company has been facing issues with vendor performance, plant operations, and process efficiency. However, the company has recently collected valuable data on material, vendor, plant location, defect quantity, and downtime caused by defective materials.
 
@@ -35,7 +35,7 @@ The dataset consists of 5,226 rows and 9 columns. Here's a breakdown of the colu
 8. Total Defect Quantity: The quantity of defective material received
 9. Total Downtime Minutes: The duration of plant inactivity due to defective materials
     
-# Data Normalization:
+# Data Normalization
 The dataset was in good shape, but I optimized it by creating dimension tables and a fact table for better performance, organization, and analysis.
 
 The dimensions table held categorical data which helped to describe the business processes or events which will be represented in the fact table. The first step involved duplicating the original table, Supplier Quality, six times. Each of the duplicated tables was uniquely renamed using identifiers such as Vendor, Plant, Category, Material Type, Defect, and Defect Type. Then, in the Vendor table, the column relevant to the dimension was selected using the choose-columns feature. Thereafter, duplicates were removed using the remove-duplicates feature to retain unique data. Finally, the primary key was created by using the add-column feature to add an index column starting from 1. The primary key was renamed to the ID version of the categorical column, such as VendorID. The data type was changed to the text data type. This process was repeated in the Plant, Category, Material Type, Defect, and Defect Type tables. 
@@ -44,10 +44,10 @@ After the successful creation of the dimension tables, the final stage in this d
 
 The date table was created using a DAX measure for time intelligence calculations and the date column was marked as a date table using table tools. The date table is an important step for enabling time intelligence calculations, such as month-over-month (MoM), year-over-year (YoY), or cumulative totals. 
 
-# Data Modelling:
+# Data Modelling
 The data modeling process involved connecting primary keys in the dimension tables to foreign keys in the fact table using the one-to-many cardinality to achieve a star schema model. 
 
-# Descriptive Analysis:
+# Descriptive Analysis
 ## Let’s first draw some visuals to help us deep dive into the data
 
 ### When it comes to analyzing supplier data, Key Performance Indicators (KPIs) are crucial for assessing supplier performance. So, what specific KPIs should we focus on in this analysis?
@@ -106,7 +106,7 @@ These findings indicate that both vendors and plants are experiencing substantia
 
 **Recommendation**: Focus on improving the quality of materials supplied by **Avamm, Meejo, and Yombu** to reduce downtime. Additionally, streamline operations at **Charles City, Twin Rocks, and Hingham** by enhancing defect detection and resolution processes, which will help lower the downtime caused by material defects and improve overall efficiency.
 
-# Recommendation:
+# Recommendation
 ### Implement a Procurement Management System (PMS)
 Use a digital procurement system like Enterprise Resource Planning (ERP) software to manage and track material sourcing, vendor performance, and purchase orders. This helps centralize procurement activities and provides real-time insights into material quality and vendor performance.
 
